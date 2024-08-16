@@ -1,0 +1,14 @@
+autoclose tag, rename, import
+background
+code runner
+developertheme
+eslint
+html css support
+hypernym icons
+javascript es6
+typescript
+jupyter
+kanagawa
+live server
+python
+python indent
