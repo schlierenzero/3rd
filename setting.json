@@ -5,6 +5,7 @@
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontFamily": "Geist Mono, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "editor.glyphMargin": false,
     "editor.inlayHints.padding": true,
@@ -12,16 +13,41 @@
     "editor.minimap.enabled": false,
     "editor.overviewRulerBorder": false,
     "editor.padding.top": 10,
+    "editor.tokenColorCustomizations": {
+        "[Kanagawa]": {
+            "comments": {
+                "foreground": "#FF9E3B"
+            }
+        }
+    },
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.cursorStyleInactive": "none",
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "terminal.integrated.fontFamily": "Geist Mono",
+    "terminal.integrated.fontFamily": "Consolas",
     "terminal.integrated.fontSize": 12,
     "window.title": " ",
-    "workbench.colorTheme": "Kanagawa",
+    "workbench.colorTheme": "Kanagawa Black",
     "workbench.iconTheme": "hypernym-icons",
     "workbench.tree.indent": 20,
     "workbench.productIconTheme": "developer-icons",
     "workbench.sideBar.location": "right",
+    "background.windowBackgrounds": [
+        "d:/Pictures/Background/**"
+    ],
+    "background.autoInstall": true,
+    "background.backgroundOpacity": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "background.backgroundBlur": [
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "background.smoothImageRendering": true,
+    "explorer.confirmDelete": false,
 }
